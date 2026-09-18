@@ -1,0 +1,740 @@
+{
+  "vuelos": [
+    {
+      "vuelo_id": "V1",
+      "origen": "LEJ",
+      "destino": "MAD",
+      "dist_km": 1805.0,
+      "fuel_base_kg": 6316.4,
+      "mejor_franja": "manana",
+      "fuel_mejor_kg": 6379.6,
+      "fuel_peor_kg": 6695.4,
+      "ahorro_kg": 315.8,
+      "detalle_por_franja": [
+        {
+          "franja": "manana",
+          "fuel_kg": 6379.6,
+          "extra_kg": 63.2,
+          "pct_extra_total": 1.0,
+          "motivos": [
+            "Orig: VIENTO 25kt +1%"
+          ]
+        },
+        {
+          "franja": "tarde",
+          "fuel_kg": 6695.4,
+          "extra_kg": 379.0,
+          "pct_extra_total": 6.0,
+          "motivos": [
+            "Orig: TORMENTA +4%",
+            "Orig: LLUVIA +1%",
+            "Dest: LLUVIA +1%"
+          ]
+        },
+        {
+          "franja": "noche",
+          "fuel_kg": 6442.7,
+          "extra_kg": 126.3,
+          "pct_extra_total": 2.0,
+          "motivos": [
+            "Orig: LLUVIA +1%",
+            "Dest: LLUVIA +1%"
+          ]
+        }
+      ]
+    },
+    {
+      "vuelo_id": "V2",
+      "origen": "LEJ",
+      "destino": "BCN",
+      "dist_km": 1436.0,
+      "fuel_base_kg": 5026.2,
+      "mejor_franja": "manana",
+      "fuel_mejor_kg": 5076.5,
+      "fuel_peor_kg": 5277.5,
+      "ahorro_kg": 201.0,
+      "detalle_por_franja": [
+        {
+          "franja": "manana",
+          "fuel_kg": 5076.5,
+          "extra_kg": 50.3,
+          "pct_extra_total": 1.0,
+          "motivos": [
+            "Orig: VIENTO 25kt +1%"
+          ]
+        },
+        {
+          "franja": "tarde",
+          "fuel_kg": 5277.5,
+          "extra_kg": 251.3,
+          "pct_extra_total": 5.0,
+          "motivos": [
+            "Orig: TORMENTA +4%",
+            "Orig: LLUVIA +1%"
+          ]
+        },
+        {
+          "franja": "noche",
+          "fuel_kg": 5126.7,
+          "extra_kg": 100.5,
+          "pct_extra_total": 2.0,
+          "motivos": [
+            "Orig: LLUVIA +1%",
+            "Dest: LLUVIA +1%"
+          ]
+        }
+      ]
+    },
+    {
+      "vuelo_id": "V3",
+      "origen": "CDG",
+      "destino": "FRA",
+      "dist_km": 472.0,
+      "fuel_base_kg": 1651.0,
+      "mejor_franja": "tarde",
+      "fuel_mejor_kg": 1651.0,
+      "fuel_peor_kg": 1684.0,
+      "ahorro_kg": 33.0,
+      "detalle_por_franja": [
+        {
+          "franja": "manana",
+          "fuel_kg": 1684.0,
+          "extra_kg": 33.0,
+          "pct_extra_total": 2.0,
+          "motivos": [
+            "Orig: LLUVIA +1%",
+            "Orig: VIENTO 21kt +1%"
+          ]
+        },
+        {
+          "franja": "tarde",
+          "fuel_kg": 1651.0,
+          "extra_kg": 0.0,
+          "pct_extra_total": 0.0,
+          "motivos": [
+            "Sin sobreconsumo"
+          ]
+        },
+        {
+          "franja": "noche",
+          "fuel_kg": 1667.5,
+          "extra_kg": 16.5,
+          "pct_extra_total": 1.0,
+          "motivos": [
+            "Dest: LLUVIA +1%"
+          ]
+        }
+      ]
+    },
+    {
+      "vuelo_id": "V4",
+      "origen": "CDG",
+      "destino": "LIS",
+      "dist_km": 1543.0,
+      "fuel_base_kg": 5401.0,
+      "mejor_franja": "tarde",
+      "fuel_mejor_kg": 5401.0,
+      "fuel_peor_kg": 5509.0,
+      "ahorro_kg": 108.0,
+      "detalle_por_franja": [
+        {
+          "franja": "manana",
+          "fuel_kg": 5509.0,
+          "extra_kg": 108.0,
+          "pct_extra_total": 2.0,
+          "motivos": [
+            "Orig: LLUVIA +1%",
+            "Orig: VIENTO 21kt +1%"
+          ]
+        },
+        {
+          "franja": "tarde",
+          "fuel_kg": 5401.0,
+          "extra_kg": 0.0,
+          "pct_extra_total": 0.0,
+          "motivos": [
+            "Sin sobreconsumo"
+          ]
+        },
+        {
+          "franja": "noche",
+          "fuel_kg": 5401.0,
+          "extra_kg": 0.0,
+          "pct_extra_total": 0.0,
+          "motivos": [
+            "Sin sobreconsumo"
+          ]
+        }
+      ]
+    },
+    {
+      "vuelo_id": "V5",
+      "origen": "FRA",
+      "destino": "VIE",
+      "dist_km": 651.0,
+      "fuel_base_kg": 2279.6,
+      "mejor_franja": "manana",
+      "fuel_mejor_kg": 2279.6,
+      "fuel_peor_kg": 2302.4,
+      "ahorro_kg": 22.8,
+      "detalle_por_franja": [
+        {
+          "franja": "manana",
+          "fuel_kg": 2279.6,
+          "extra_kg": 0.0,
+          "pct_extra_total": 0.0,
+          "motivos": [
+            "Sin sobreconsumo"
+          ]
+        },
+        {
+          "franja": "tarde",
+          "fuel_kg": 2279.6,
+          "extra_kg": 0.0,
+          "pct_extra_total": 0.0,
+          "motivos": [
+            "Sin sobreconsumo"
+          ]
+        },
+        {
+          "franja": "noche",
+          "fuel_kg": 2302.4,
+          "extra_kg": 22.8,
+          "pct_extra_total": 1.0,
+          "motivos": [
+            "Orig: LLUVIA +1%"
+          ]
+        }
+      ]
+    },
+    {
+      "vuelo_id": "V6",
+      "origen": "MAD",
+      "destino": "BCN",
+      "dist_km": 507.0,
+      "fuel_base_kg": 1775.0,
+      "mejor_franja": "manana",
+      "fuel_mejor_kg": 1775.0,
+      "fuel_peor_kg": 1810.5,
+      "ahorro_kg": 35.5,
+      "detalle_por_franja": [
+        {
+          "franja": "manana",
+          "fuel_kg": 1775.0,
+          "extra_kg": 0.0,
+          "pct_extra_total": 0.0,
+          "motivos": [
+            "Sin sobreconsumo"
+          ]
+        },
+        {
+          "franja": "tarde",
+          "fuel_kg": 1792.8,
+          "extra_kg": 17.8,
+          "pct_extra_total": 1.0,
+          "motivos": [
+            "Orig: LLUVIA +1%"
+          ]
+        },
+        {
+          "franja": "noche",
+          "fuel_kg": 1810.5,
+          "extra_kg": 35.5,
+          "pct_extra_total": 2.0,
+          "motivos": [
+            "Orig: LLUVIA +1%",
+            "Dest: LLUVIA +1%"
+          ]
+        }
+      ]
+    },
+    {
+      "vuelo_id": "V7",
+      "origen": "BRU",
+      "destino": "MXP",
+      "dist_km": 698.0,
+      "fuel_base_kg": 2442.5,
+      "mejor_franja": "manana",
+      "fuel_mejor_kg": 2466.9,
+      "fuel_peor_kg": 2540.2,
+      "ahorro_kg": 73.3,
+      "detalle_por_franja": [
+        {
+          "franja": "manana",
+          "fuel_kg": 2466.9,
+          "extra_kg": 24.4,
+          "pct_extra_total": 1.0,
+          "motivos": [
+            "Dest: VIENTO 23kt +1%"
+          ]
+        },
+        {
+          "franja": "tarde",
+          "fuel_kg": 2540.2,
+          "extra_kg": 97.7,
+          "pct_extra_total": 4.0,
+          "motivos": [
+            "Orig: TORMENTA +4%"
+          ]
+        },
+        {
+          "franja": "noche",
+          "fuel_kg": 2466.9,
+          "extra_kg": 24.4,
+          "pct_extra_total": 1.0,
+          "motivos": [
+            "Dest: LLUVIA +1%"
+          ]
+        }
+      ]
+    },
+    {
+      "vuelo_id": "V8",
+      "origen": "EMA",
+      "destino": "CDG",
+      "dist_km": 529.0,
+      "fuel_base_kg": 1852.8,
+      "mejor_franja": "tarde",
+      "fuel_mejor_kg": 1871.3,
+      "fuel_peor_kg": 1889.9,
+      "ahorro_kg": 18.6,
+      "detalle_por_franja": [
+        {
+          "franja": "manana",
+          "fuel_kg": 1889.9,
+          "extra_kg": 37.1,
+          "pct_extra_total": 2.0,
+          "motivos": [
+            "Dest: LLUVIA +1%",
+            "Dest: VIENTO 21kt +1%"
+          ]
+        },
+        {
+          "franja": "tarde",
+          "fuel_kg": 1871.3,
+          "extra_kg": 18.5,
+          "pct_extra_total": 1.0,
+          "motivos": [
+            "Orig: LLUVIA +1%"
+          ]
+        },
+        {
+          "franja": "noche",
+          "fuel_kg": 1871.3,
+          "extra_kg": 18.5,
+          "pct_extra_total": 1.0,
+          "motivos": [
+            "Orig: LLUVIA +1%"
+          ]
+        }
+      ]
+    },
+    {
+      "vuelo_id": "V9",
+      "origen": "LIS",
+      "destino": "MAD",
+      "dist_km": 539.0,
+      "fuel_base_kg": 1884.8,
+      "mejor_franja": "manana",
+      "fuel_mejor_kg": 1884.8,
+      "fuel_peor_kg": 1903.6,
+      "ahorro_kg": 18.8,
+      "detalle_por_franja": [
+        {
+          "franja": "manana",
+          "fuel_kg": 1884.8,
+          "extra_kg": 0.0,
+          "pct_extra_total": 0.0,
+          "motivos": [
+            "Sin sobreconsumo"
+          ]
+        },
+        {
+          "franja": "tarde",
+          "fuel_kg": 1903.6,
+          "extra_kg": 18.8,
+          "pct_extra_total": 1.0,
+          "motivos": [
+            "Dest: LLUVIA +1%"
+          ]
+        },
+        {
+          "franja": "noche",
+          "fuel_kg": 1903.6,
+          "extra_kg": 18.8,
+          "pct_extra_total": 1.0,
+          "motivos": [
+            "Dest: LLUVIA +1%"
+          ]
+        }
+      ]
+    },
+    {
+      "vuelo_id": "V10",
+      "origen": "VIE",
+      "destino": "LEJ",
+      "dist_km": 507.0,
+      "fuel_base_kg": 1773.5,
+      "mejor_franja": "manana",
+      "fuel_mejor_kg": 1791.2,
+      "fuel_peor_kg": 1862.2,
+      "ahorro_kg": 71.0,
+      "detalle_por_franja": [
+        {
+          "franja": "manana",
+          "fuel_kg": 1791.2,
+          "extra_kg": 17.7,
+          "pct_extra_total": 1.0,
+          "motivos": [
+            "Dest: VIENTO 25kt +1%"
+          ]
+        },
+        {
+          "franja": "tarde",
+          "fuel_kg": 1862.2,
+          "extra_kg": 88.7,
+          "pct_extra_total": 5.0,
+          "motivos": [
+            "Dest: TORMENTA +4%",
+            "Dest: LLUVIA +1%"
+          ]
+        },
+        {
+          "franja": "noche",
+          "fuel_kg": 1791.2,
+          "extra_kg": 17.7,
+          "pct_extra_total": 1.0,
+          "motivos": [
+            "Dest: LLUVIA +1%"
+          ]
+        }
+      ]
+    }
+  ],
+  "meteo": {
+    "BCN": {
+      "manana": {
+        "viento_kt": 13,
+        "visibilidad_km": 14.1,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.0,
+        "motivos": []
+      },
+      "tarde": {
+        "viento_kt": 9,
+        "visibilidad_km": 12.5,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.0,
+        "motivos": []
+      },
+      "noche": {
+        "viento_kt": 7,
+        "visibilidad_km": 10.4,
+        "lluvia": true,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.01,
+        "motivos": [
+          "LLUVIA +1%"
+        ]
+      }
+    },
+    "BRU": {
+      "manana": {
+        "viento_kt": 19,
+        "visibilidad_km": 15.6,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.0,
+        "motivos": []
+      },
+      "tarde": {
+        "viento_kt": 11,
+        "visibilidad_km": 35.9,
+        "lluvia": false,
+        "tormenta": true,
+        "niebla": false,
+        "pct_extra": 0.04,
+        "motivos": [
+          "TORMENTA +4%"
+        ]
+      },
+      "noche": {
+        "viento_kt": 11,
+        "visibilidad_km": 5.2,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.0,
+        "motivos": []
+      }
+    },
+    "CDG": {
+      "manana": {
+        "viento_kt": 21,
+        "visibilidad_km": 13.8,
+        "lluvia": true,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.02,
+        "motivos": [
+          "LLUVIA +1%",
+          "VIENTO 21kt +1%"
+        ]
+      },
+      "tarde": {
+        "viento_kt": 13,
+        "visibilidad_km": 15.7,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.0,
+        "motivos": []
+      },
+      "noche": {
+        "viento_kt": 0,
+        "visibilidad_km": 8.0,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.0,
+        "motivos": []
+      }
+    },
+    "EMA": {
+      "manana": {
+        "viento_kt": 19,
+        "visibilidad_km": 8.9,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.0,
+        "motivos": []
+      },
+      "tarde": {
+        "viento_kt": 9,
+        "visibilidad_km": 22.6,
+        "lluvia": true,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.01,
+        "motivos": [
+          "LLUVIA +1%"
+        ]
+      },
+      "noche": {
+        "viento_kt": 11,
+        "visibilidad_km": 11.2,
+        "lluvia": true,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.01,
+        "motivos": [
+          "LLUVIA +1%"
+        ]
+      }
+    },
+    "FRA": {
+      "manana": {
+        "viento_kt": 10,
+        "visibilidad_km": 11.4,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.0,
+        "motivos": []
+      },
+      "tarde": {
+        "viento_kt": 8,
+        "visibilidad_km": 44.5,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.0,
+        "motivos": []
+      },
+      "noche": {
+        "viento_kt": 12,
+        "visibilidad_km": 14.7,
+        "lluvia": true,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.01,
+        "motivos": [
+          "LLUVIA +1%"
+        ]
+      }
+    },
+    "LEJ": {
+      "manana": {
+        "viento_kt": 25,
+        "visibilidad_km": 14.5,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.01,
+        "motivos": [
+          "VIENTO 25kt +1%"
+        ]
+      },
+      "tarde": {
+        "viento_kt": 14,
+        "visibilidad_km": 13.0,
+        "lluvia": true,
+        "tormenta": true,
+        "niebla": false,
+        "pct_extra": 0.05,
+        "motivos": [
+          "TORMENTA +4%",
+          "LLUVIA +1%"
+        ]
+      },
+      "noche": {
+        "viento_kt": 7,
+        "visibilidad_km": 12.4,
+        "lluvia": true,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.01,
+        "motivos": [
+          "LLUVIA +1%"
+        ]
+      }
+    },
+    "LIS": {
+      "manana": {
+        "viento_kt": 19,
+        "visibilidad_km": 12.0,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.0,
+        "motivos": []
+      },
+      "tarde": {
+        "viento_kt": 14,
+        "visibilidad_km": 20.3,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.0,
+        "motivos": []
+      },
+      "noche": {
+        "viento_kt": 5,
+        "visibilidad_km": 9.0,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.0,
+        "motivos": []
+      }
+    },
+    "MAD": {
+      "manana": {
+        "viento_kt": 10,
+        "visibilidad_km": 17.1,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.0,
+        "motivos": []
+      },
+      "tarde": {
+        "viento_kt": 11,
+        "visibilidad_km": 26.4,
+        "lluvia": true,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.01,
+        "motivos": [
+          "LLUVIA +1%"
+        ]
+      },
+      "noche": {
+        "viento_kt": 10,
+        "visibilidad_km": 6.6,
+        "lluvia": true,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.01,
+        "motivos": [
+          "LLUVIA +1%"
+        ]
+      }
+    },
+    "MXP": {
+      "manana": {
+        "viento_kt": 23,
+        "visibilidad_km": 14.9,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.01,
+        "motivos": [
+          "VIENTO 23kt +1%"
+        ]
+      },
+      "tarde": {
+        "viento_kt": 17,
+        "visibilidad_km": 26.0,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.0,
+        "motivos": []
+      },
+      "noche": {
+        "viento_kt": 8,
+        "visibilidad_km": 14.7,
+        "lluvia": true,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.01,
+        "motivos": [
+          "LLUVIA +1%"
+        ]
+      }
+    },
+    "VIE": {
+      "manana": {
+        "viento_kt": 0,
+        "visibilidad_km": 18.6,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.0,
+        "motivos": []
+      },
+      "tarde": {
+        "viento_kt": 7,
+        "visibilidad_km": 25.0,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.0,
+        "motivos": []
+      },
+      "noche": {
+        "viento_kt": 7,
+        "visibilidad_km": 14.5,
+        "lluvia": false,
+        "tormenta": false,
+        "niebla": false,
+        "pct_extra": 0.0,
+        "motivos": []
+      }
+    }
+  },
+  "resumen": {
+    "fuel_total_optimo_kg": 30576.9,
+    "fuel_total_peor_kg": 31474.7,
+    "ahorro_total_kg": 897.8,
+    "ahorro_total_pct": 2.85
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "vuelos": [
+    {"id": "V1",  "origen": "LEJ", "destino": "MAD"},
+    {"id": "V2",  "origen": "LEJ", "destino": "BCN"},
+    {"id": "V3",  "origen": "CDG", "destino": "FRA"},
+    {"id": "V4",  "origen": "CDG", "destino": "LIS"},
+    {"id": "V5",  "origen": "FRA", "destino": "VIE"},
+    {"id": "V6",  "origen": "MAD", "destino": "BCN"},
+    {"id": "V7",  "origen": "BRU", "destino": "MXP"},
+    {"id": "V8",  "origen": "EMA", "destino": "CDG"},
+    {"id": "V9",  "origen": "LIS", "destino": "MAD"},
+    {"id": "V10", "origen": "VIE", "destino": "LEJ"}
+  ],
+  "weather_seed": 42
+}

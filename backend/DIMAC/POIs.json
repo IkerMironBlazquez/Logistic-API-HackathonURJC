@@ -1,0 +1,30 @@
+{
+  "pois": [
+    { "id": 1872871,  "name": "Puerto de Los Ángeles/Long Beach",    "type": "seaport",  "lat": 33.7309, "lon": -118.2631 },
+    { "id": 14905240, "name": "Puerto de Nueva York/Nueva Jersey",   "type": "seaport",  "lat": 40.6853, "lon": -74.0705  },
+    { "id": 18854611, "name": "Puerto de Houston/Galveston",         "type": "seaport",  "lat": 29.7406, "lon": -95.0747  },
+    { "id": 5020769,  "name": "Puerto de Savannah, GA",              "type": "seaport",  "lat": 32.0830, "lon": -81.0993  },
+    { "id": 18035492, "name": "Puerto de Charleston, SC",            "type": "seaport",  "lat": 32.7764, "lon": -79.9310  },
+    { "id": 22681045, "name": "Puerto de Seattle/Tacoma",            "type": "seaport",  "lat": 47.3326, "lon": -122.3724 },
+    { "id": 9928058,  "name": "Puerto de Baltimore, MD",             "type": "seaport",  "lat": 39.2670, "lon": -76.5806  },
+    { "id": 7940251,  "name": "Puerto de Nueva Orleans, LA",         "type": "seaport",  "lat": 29.9509, "lon": -90.0715  },
+    { "id": 3916569,  "name": "Puerto de Miami, FL",                 "type": "seaport",  "lat": 25.7764, "lon": -80.1782  },
+    { "id": 21797733, "name": "Puerto de Norfolk/Virginia Beach",    "type": "seaport",  "lat": 36.8970, "lon": -76.3003  },
+    { "id": 3772129,  "name": "Puerto de Jacksonville, FL",          "type": "seaport",  "lat": 30.3276, "lon": -81.6561  },
+    { "id": 1703986,  "name": "Puerto de Oakland, CA",               "type": "seaport",  "lat": 37.7969, "lon": -122.2780 },
+    { "id": 18944209, "name": "Puerto de Filadelfia, PA",            "type": "seaport",  "lat": 39.9371, "lon": -75.1445  },
+    { "id": 20532798, "name": "Laredo, TX (frontera México)",        "type": "border",   "lat": 27.5037, "lon": -99.5073  },
+    { "id": 18762184, "name": "El Paso, TX / Ciudad Juárez",         "type": "border",   "lat": 31.7619, "lon": -106.4845 },
+    { "id": 11600304, "name": "Detroit-Windsor Crossing",            "type": "border",   "lat": 42.3265, "lon": -83.0457  },
+    { "id": 15102684, "name": "Buffalo-Niagara Falls, NY",           "type": "border",   "lat": 42.8860, "lon": -78.8788  },
+    { "id": 3225467,  "name": "San Diego / Tijuana (Otay Mesa)",     "type": "border",   "lat": 32.5682, "lon": -116.9710 },
+    { "id": 1681235,  "name": "Nogales, AZ",                         "type": "border",   "lat": 31.3404, "lon": -110.9344 },
+    { "id": 1503480,  "name": "Douglas, AZ / Agua Prieta",           "type": "border",   "lat": 31.3444, "lon": -109.5455 },
+    { "id": 16784846, "name": "Aeropuerto JFK, Nueva York",          "type": "airport",  "lat": 40.6440, "lon": -73.7792  },
+    { "id": 6818867,  "name": "Aeropuerto O'Hare, Chicago",          "type": "airport",  "lat": 41.9761, "lon": -87.9035  },
+    { "id": 2437764,  "name": "Aeropuerto LAX, Los Ángeles",         "type": "airport",  "lat": 33.9432, "lon": -118.4080 },
+    { "id": 2988074,  "name": "Aeropuerto de Miami, FL",             "type": "airport",  "lat": 25.8030, "lon": -80.2890  },
+    { "id": 9602138,  "name": "Aeropuerto de Louisville (UPS Hub)",  "type": "airport",  "lat": 38.1715, "lon": -85.7451  },
+    { "id": 19519790, "name": "Aeropuerto de Memphis (FedEx Hub)",   "type": "airport",  "lat": 35.0423, "lon": -89.9706  }
+  ]
+}
